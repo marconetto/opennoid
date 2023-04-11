@@ -10,3 +10,5 @@ Open Noid, or just "Noid", is a Linux game based on the old famous Arkanoid but 
 Only one library was used in this project: svgalib. This library was needed to do the graphic support, but the sound and graphic loading routines and the networking were completely written with ansi-C.
 
 Note that this game was not developed to be a professional game. We just developed to have some fun! :)
+
+![Screenshot1](./figs/noid21_screen0.jpg "Screenshot 1")
